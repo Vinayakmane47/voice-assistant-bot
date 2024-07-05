@@ -18,7 +18,7 @@ pipeline = Pipeline.from_pretrained(
 
 
 
-input_wav = "podcast.wav"
+input_wav = "podcast/environment_debate.wav"
 output_dir = "output"
 count = 10001
 
